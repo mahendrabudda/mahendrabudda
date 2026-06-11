@@ -109,18 +109,20 @@ print(goals.get_availability())
 ---
 ## 🌟 Featured Projects
 
-### 🍔 [Food Delivery E-Commerce Platform](https://food-delivery-seven-zeta.vercel.app/)
-> **Tech Stack:** MongoDB | Express | React | Node.js | Vercel  
+### 💬 [MariGo – Real-Time Chat Platform](https://marigo.onrender.com/)
+
+> **Tech Stack:** MongoDB | Express | React | Node.js | Socket.IO | JWT | Cloudinary
+> A modern real-time chat application enabling instant messaging with secure authentication and responsive user experience. Features include one-to-one messaging, friend request management, online user presence, image sharing, profile customization, and persistent chat history. Built using Socket.IO for seamless real-time communication and designed with scalability and performance in mind.
+
+### 🍔 [Tomato – Food Delivery E-Commerce Platform](https://food-delivery-3g3zpkn39-mahendras-projects-22b36856.vercel.app/)
+
+> **Tech Stack:** MongoDB | Express | React | Node.js | Vercel
 > A fully functional food delivery e-commerce website with real-time order tracking, user authentication, cart management, and payment integration. Features include dynamic menu display, responsive design, and seamless user experience across devices.
 
-### 🔐 [MERN Authentication System](https://github.com/YOUR_GITHUB_USERNAME/mern-auth)
-> **Tech Stack:** MongoDB | Express | React | Node.js | JWT | Bcrypt  
-> Robust authentication system implementing secure user registration, login, password hashing, JWT token-based authentication, protected routes, and session management. Built with industry-standard security practices and middleware integration.
+### 🚦 [Traffic Management System using Deep Reinforcement Learning](https://github.com/mahendrabudda/traffic-management-drl)
 
-### 🚦 [Traffic Management System using Deep Reinforcement Learning](https://github.com/YOUR_GITHUB_USERNAME/traffic-management-drl)
-> **Tech Stack:** Python | TensorFlow | Deep Q-Learning | OpenAI Gym | NumPy  
+> **Tech Stack:** Python | TensorFlow | Deep Q-Learning | OpenAI Gym | NumPy
 > Intelligent traffic signal control system leveraging Deep Reinforcement Learning algorithms to optimize traffic flow, reduce congestion, and minimize waiting times. Implements DQN (Deep Q-Network) for adaptive signal timing based on real-time traffic conditions.
-
 
 ---
 
